@@ -1,0 +1,103 @@
+
+ CHEMKIN-III SURFACE MECHANISM INTERPRETER:
+ DOUBLE PRECISION Vers. 5.6 96/05/24        
+ Copyright 1995, Sandia Corporation.
+ The U.S. Government retains a limited license in this software.
+
+
+
+ CKLIB: CHEMKIN-III GAS-PHASE CHEMICAL KINETICS LIBRARY,
+ DOUBLE PRECISION Vers. 5.2 96/05/24        
+ Copyright 1995, Sandia Corporation.
+ The U.S. Government retains a limited license in this software.
+
+
+ -------------------------------------------------------------------------------
+ SPECIES                MOLECULAR                        ELEMENT COUNT
+ CONSIDERED             WEIGHT       Density    Nsites    H  C  N  O 
+ -------------------------------------------------------------------------------
+
+ Gas phase species:
+   1. CH4                16.04303                         4  1  0  0
+   2. C6H11              83.15457                        11  6  0  0
+   3. C2H6               30.07012                         6  2  0  0
+   4. C5H8               68.11951                         8  5  0  0
+   5. C5H10              70.13545                        10  5  0  0
+   6. C5H12              72.15139                        12  5  0  0
+   7. C6H14              86.17848                        14  6  0  0
+   8. H                   1.00797                         1  0  0  0
+   9. H2                  2.01594                         2  0  0  0
+  10. O                  15.99940                         0  0  0  1
+  11. O2                 31.99880                         0  0  0  2
+  12. OH                 17.00737                         1  0  0  1
+  13. HO2                33.00677                         1  0  0  2
+  14. H2O                18.01534                         2  0  0  1
+  15. H2O2               34.01474                         2  0  0  2
+  16. CO                 28.01055                         0  1  0  1
+  17. CO2                44.00995                         0  1  0  2
+  18. HCO                29.01852                         1  1  0  1
+  19. CH3                15.03506                         3  1  0  0
+  20. CH2O               30.02649                         2  1  0  1
+  21. C2H5               29.06215                         5  2  0  0
+  22. CH2                14.02709                         2  1  0  0
+  23. CH3O               31.03446                         3  1  0  1
+  24. CH2OH              31.03446                         3  1  0  1
+  25. CH                 13.01912                         1  1  0  0
+  26. C2H2               26.03824                         2  2  0  0
+  27. C2H4               28.05418                         4  2  0  0
+  28. C2H3               27.04621                         3  2  0  0
+  29. CH3OH              32.04243                         4  1  0  1
+  30. CH3HCO             44.05358                         4  2  0  1
+  31. C2H4O              44.05358                         4  2  0  1
+  32. C2H                25.03027                         1  2  0  0
+  33. CH2CO              42.03764                         2  2  0  1
+  34. HCCO               41.02967                         1  2  0  1
+  35. SCH2               14.02709                         2  1  0  0
+  36. C2                 24.02230                         0  2  0  0
+  37. C2O                40.02170                         0  2  0  1
+  38. CH3CO              43.04561                         3  2  0  1
+  39. CH3CO3             75.04441                         3  2  0  3
+  40. CH3CO3H            76.05238                         4  2  0  3
+  41. CH3O2              47.03386                         3  1  0  2
+  42. CH3O2H             48.04183                         4  1  0  2
+  43. C2H5O2H            62.06892                         6  2  0  2
+  44. C2H5O2             61.06095                         5  2  0  2
+  45. CH3CO2             59.04501                         3  2  0  2
+  46. CH3CO2H            60.05298                         4  2  0  2
+  47. C2H5O              45.06155                         5  2  0  1
+  48. C2H5OH             46.06952                         6  2  0  1
+  49. SC2H5O             45.06155                         5  2  0  1
+  50. PC2H5O             45.06155                         5  2  0  1
+  51. CH2HCO             43.04561                         3  2  0  1
+  52. CN                 26.01785                         0  1  1  0
+  53. H2CN               28.03379                         2  1  1  0
+  54. N                  14.00670                         0  0  1  0
+  55. NH                 15.01467                         1  0  1  0
+  56. HCN                27.02582                         1  1  1  0
+  57. NO                 30.00610                         0  0  1  1
+  58. HCNO               43.02522                         1  1  1  1
+  59. C                  12.01115                         0  1  0  0
+  60. HOCN               43.02522                         1  1  1  1
+  61. HNCO               43.02522                         1  1  1  1
+  62. NCO                42.01725                         0  1  1  1
+  63. N2O                44.01280                         0  0  2  1
+  64. NH2                16.02264                         2  0  1  0
+  65. HNO                31.01407                         1  0  1  1
+  66. NO2                46.00550                         0  0  1  2
+  67. C2N2               52.03570                         0  2  2  0
+  68. NNH                29.02137                         1  0  2  0
+  69. NH3                17.03061                         3  0  1  0
+  70. N2H2               30.02934                         2  0  2  0
+
+ WARNING...NO SURFACE REACTIONS FOUND, 
+ LINKFILE HAS NO REACTION INFORMATION ON IT.
+
+
+
+ NO ERRORS FOUND ON INPUT:
+ BINARY Version 1.0 surface linkfile surf.bin written.
+
+ WORKING SPACE REQUIREMENTS ARE
+    INTEGER:      725
+    REAL:        1552
+    CHARACTER:     77

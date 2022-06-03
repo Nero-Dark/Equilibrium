@@ -1,0 +1,10 @@
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\bin\x86\Release\Equilibrium.exe.config
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\bin\x86\Release\Equilibrium.exe
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\bin\x86\Release\Equilibrium.pdb
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\x86\Release\WindowsFormsApp2.AboutForm.resources
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\x86\Release\WindowsFormsApp2.Form1.resources
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\x86\Release\WindowsFormsApp2.DatabaseForm.resources
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\x86\Release\Equilibrium.Properties.Resources.resources
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\x86\Release\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\x86\Release\Equilibrium.exe
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\x86\Release\Equilibrium.pdb

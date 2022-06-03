@@ -1,0 +1,21 @@
+f:\nero's stuff\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+f:\nero's stuff\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+f:\nero's stuff\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+f:\nero's stuff\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+f:\nero's stuff\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+f:\nero's stuff\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+f:\nero's stuff\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+f:\nero's stuff\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+f:\nero's stuff\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+f:\nero's stuff\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DatabaseForm.resources
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AboutForm.resources
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\bin\Debug\Equilibrium.exe.config
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\bin\Debug\Equilibrium.exe
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\bin\Debug\Equilibrium.pdb
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\Debug\Equilibrium.Properties.Resources.resources
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\Debug\Equilibrium.exe
+D:\2021 Шумляев\DEV\C#\Equilibrium NEW\WindowsFormsApp2\obj\Debug\Equilibrium.pdb

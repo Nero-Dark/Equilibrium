@@ -1,0 +1,27 @@
+
+ CKLIB: CHEMKIN-III GAS-PHASE CHEMICAL KINETICS LIBRARY,
+ DOUBLE PRECISION Vers. 5.2 96/05/24        
+ Copyright 1995, Sandia Corporation.
+ The U.S. Government retains a limited license in this software.
+
+
+
+ SKLIB: CHEMKIN-III SURFACE KINETICS LIBRARY,
+ DOUBLE           PRECISION Vers. %I% %E%             
+ Copyright 1995, Sandia Corporation.
+ The U.S. Government retains a limited license in this software.
+
+
+
+           KEYWORD INPUT 
+
+ VH                                                                              
+ TEMP 1273.15                                                                    
+ TEST 1273.15                                                                    
+ PRES 50                                                                         
+ PEST 50                                                                         
+ REAC H2 10                                                                      
+ REAC O2 5                                                                       
+ END                                                                             
+ 
+  Constant volume and enthalpy problem. 
